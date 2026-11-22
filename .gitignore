@@ -66,3 +66,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+# Not sharing inputs or notes
+inputs/day-*
+*notes.txt

@@ -1,6 +1,6 @@
-# Advent of Code 2025
+# Advent of Code 2026
 
-Repo for my entries for [Advent of Code 2025](https://adventofcode.com/2025/about)
+Repo for my entries for [Advent of Code 2026](https://adventofcode.com/2026/about)
 
 All are solved in C++23
 
